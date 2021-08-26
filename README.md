@@ -1,4 +1,4 @@
-# Raspberry_Pi4-Weather_reporting_over_IOT
-# Project Name - Raspberry Aeather Reporting Over IoT
+
+# Project Name - Raspberry Weather Reporting Over IoT
 
 This project represents the real time monitoring and updating weather conditions over the internet. The system monitors three parameters namely temperature, humidity and raindrop. These values are then displayed on LCD. When the area is dry it shows zero value. When the system detects raindrop, it shows the value of the increase in raindrop. When the temperature increases the value gets updated. The user can observe the weather status of a particular area from any remote location. For this purpose, we have used Raspberry Pi 4 board. Raspbarian operating system is selected to use with Linux Kernel for Raspberry Pi 4. Python Language is used for programming because IDLE understands Python. By readings, the user can get a fair idea of the weather of a particular area on the monitor. This system proves to be useful for knowing the weather of the localized area. 
